@@ -1,0 +1,7 @@
+
+alert("Hola mundo")
+/*/comentario
+primer alert seguido de otro alert
+/*/
+
+alert("soy el primer script")
